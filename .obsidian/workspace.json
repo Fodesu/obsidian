@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "51dd629495b706d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75b5149ee090120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2827b2238d1b0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "全盘加密部署流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全盘加密部署流程"
+            }
+          },
+          {
+            "id": "c175554ce38edc3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/12月/A Primer on Memeory Consistency and Cache Coherence/介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "介绍"
+            }
+          },
+          {
+            "id": "68d67e22eb1aa2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/12月/A Primer on Memeory Consistency and Cache Coherence/3. Memory Consistency 动机和 Sequential-Consistency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Memory Consistency 动机和 Sequential-Consistency"
+            }
+          },
+          {
+            "id": "68f2971d4b2ff845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/12月/A Primer on Memeory Consistency and Cache Coherence/4. TSO 和 x86 内存模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. TSO 和 x86 内存模型"
+            }
+          },
+          {
+            "id": "9eddf2dddc1c51bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/12月/A Primer on Memeory Consistency and Cache Coherence/介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "介绍"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "167a08ea034dbac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc352bdb35e3d862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9cef53e01cc8b75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d18eba21bbacc8ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3de78ffbe78c9004",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9632573436039912",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c3ec3dc5ec7734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a17637afdcb6ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1c9559e85c86ecff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bd31308a0688cfcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c4cc7aad23a8c3d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a0db64662f757e7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "68f2971d4b2ff845",
+  "lastOpenFiles": [
+    "全盘加密部署流程.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/3. Memory Consistency 动机和 Sequential-Consistency.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/4. TSO 和 x86 内存模型.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/介绍.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/Table 4.1.png",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/2. Coherence 基础.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/How a Core Might Reorder Memory Access.md",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/Figure 2.2 The pipeline-coherence interface.png",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/Table2.1 Example of incoherence.png",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence/Figure2.1 Baseline system model used throughout this primer.png",
+    "2025/12月/A Primer on Memeory Consistency and Cache Coherence",
+    "2025/12月/学习清单.md",
+    "2025/12月",
+    "2025",
+    "全盘加密方案.md",
+    "全盘加密技术介绍.md",
+    "README.md",
+    "2FA/prompt.png",
+    "2FA/2FA系统部署文档.md",
+    "FDE/LUKS_TPM_PIN启动解密流程图.svg",
+    "Excalidraw/Drawing 2025-12-04 10.53.52.excalidraw.md",
+    "Excalidraw",
+    "FDE",
+    "2FA",
+    "2025",
+    "未命名.base",
+    "欢迎.md"
+  ]
+}
